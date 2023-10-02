@@ -1,7 +1,7 @@
-#To print even length words in string
+#To print even-length words in a string
  
 #input string
-n="This is a python language"
+n = "This is a python language"
 #splitting the words in a given string
 s=n.split(" ")
 for i in s:
