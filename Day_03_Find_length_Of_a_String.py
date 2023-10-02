@@ -1,4 +1,4 @@
-# Python code to demonstrate string length
+# string length
 # using len
 
 str = "challenge"
